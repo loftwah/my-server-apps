@@ -1,0 +1,4 @@
+docker-compose.yml
+git clone https://github.com/dwaaan/HRConvert2-Docker
+Edit config.php
+docker-compose up (-d to run in background)

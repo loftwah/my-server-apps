@@ -1,0 +1,1 @@
+docker run --rm -dp 3030:3030 ekzhang/rustpad
